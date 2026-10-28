@@ -4,6 +4,7 @@
 **Universidade Federal da Bahia (UFBA)** — Engenharia de Controle e Automação Industrial
 
 [**Relatório completo em PDF**](Latex/relatorio.pdf) · [**Fonte em LaTeX**](Latex/main.tex) · [**Figuras**](Latex/figuras/)
+
 [**Link do Overleaf:**] https://www.overleaf.com/project/6ae0d320af9c0cf9ca3ff254/share#c41b476da81511afeff664c8f2cf3e40d7dc0bab7357b8e9
 
 ---
