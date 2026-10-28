@@ -390,7 +390,7 @@ $$
 A condição de estabilidade é $|1+T_s\lambda_i|<1$, conduzindo ao limite:
 
 $$
-T_{s,\max}=\min_i\left\{\frac{-2\,\mathrm{Re}(\lambda_i)}{|\lambda_i|^2}\right\},
+T_{s,\max}=\min_{i}\frac{-2\,\mathrm{Re}(\lambda_i)}{|\lambda_i|^2},
 \qquad
 T_s=0{,}8\,T_{s,\max}.
 $$
